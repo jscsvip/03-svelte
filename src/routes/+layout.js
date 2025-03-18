@@ -8,6 +8,7 @@ export function load() {
     navs: [
       { slug: "authors", title: "Auther List" },
       { slug: "posts", title: "Post List" },
+      { slug: "add", title: "Addition Calculator" },
     ],
   };
 }
